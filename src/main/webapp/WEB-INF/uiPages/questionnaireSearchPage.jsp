@@ -7,7 +7,7 @@
 <title>Questionnaire/Checklist</title>
 </head>
 <body>
-	<h3>Questionnaire Search Criteria</h3>
+	<h3><center>Questionnaire Search Criteria</center></h3>
 	<form name="search" action="search" method="post">
 		<table align="center">
 			<tr>

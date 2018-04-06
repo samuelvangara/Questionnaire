@@ -7,7 +7,7 @@
 <title>Questionnaire Details</title>
 </head>
 <body>
-	<h3>Questionnaire Search Criteria</h3>
+	<h3><center>Questionnaire Search Criteria</center></h3>
 	<form name="addSection" action="addSection" method="post">
 	<table align="center">
 			<tr>
